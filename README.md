@@ -28,10 +28,13 @@
 - **Iyad Maree** - Computer Systems Engineering, PPU
 - *Supervised by: Dr. Eng. Radwan Tahboub*
 
+
+## 📄 Documentation & Technical Report
+For a deep dive into the system architecture, cryptographic models, and implementation details, please refer to our **[Official Final Report](./Secura_Final_Report.pdf)**.
+
 ---
 <div align="center">
   <p>Copyright © 2026. All Rights Reserved.</p>
 </div>
 
-## 📄 Documentation & Technical Report
-For a deep dive into the system architecture, cryptographic models, and implementation details, please refer to our **[Official Final Report](./Secura_Final_Report.pdf)**.
+
